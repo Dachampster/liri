@@ -1,1 +1,6 @@
-spotify-this-song,"I Want it That Way"
+LIRI
+
+command line app that takes in 4 arguments: node, liri, service, search.
+for example, node liri twitter heroku gives you heroku's twitter account
+"node liri spotify michael jackson" searches spotify for michael jackson
+put as many terms as you need for the search, i can handle it
